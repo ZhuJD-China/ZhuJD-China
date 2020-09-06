@@ -1,11 +1,10 @@
 ### Hi there 👋
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ZhuJD-China&title=Star,Follower,Commit,Repo,Issue&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
-<p>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=ZhuJD-China&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
-</p>
 
-<br></br><br></br><br></br><br></br>
+
+
+<br></br>
 - 🌱 I’m currently learning AI ML DL
 - 💬 Ask me about your emotion
 - 📫 How to reach me: zhujiadongvip@163.com
