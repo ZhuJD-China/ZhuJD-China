@@ -26,12 +26,9 @@
 <br></br>
 
 <a href="https://github.com/ZhuJD-China">
-  <img  style="float:right" alt="ZhuJD-China's Discord" width="200px" src="https://raw.githubusercontent.com/ZhuJD-China/ZhuJD-China/master/images/ZJD.jpg" />
+  <img  align="center" alt="ZhuJD-China's Discord" width="800px" src="https://raw.githubusercontent.com/ZhuJD-China/ZhuJD-China/master/images/girl.png" />
 </a>
 
-
-<br></br>
-![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
 <!--
 
