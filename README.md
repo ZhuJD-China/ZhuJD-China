@@ -31,6 +31,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZhuJD-China&repo=Mask_Wearing_best&theme=radical" />
 </a>    
 
+<br></br>
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
 <!--
