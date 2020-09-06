@@ -2,24 +2,27 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ZhuJD-China&title=Star,Follower,Commit,Repo,Issue&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-<div style="float:right;width:80%">
-	<a href="https://github.com/ZhuJD-China/Mask_Wearing_best">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZhuJD-China&repo=Mask_Wearing_best&theme=radical" />
-</a> 
-<a href="https://github.com/ZhuJD-China/PixelLib">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZhuJD-China&repo=PixelLib&theme=radical" />
-</a>    
-<a href="https://github.com/ZhuJD-China/Algorithm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZhuJD-China&repo=Algorithm&theme=radical" />
-</a>   
-	<div style="float:left;width:80%">
 - 🌱 I’m currently learning AI ML DL
 - 💬 Ask me about your emotion
 - 📫 How to reach me: zhujiadongvip@163.com
 - 😄 Pronouns: 愿中国青年都摆脱冷气，只向上走!
-	</div>
-</div>
+<p>
+<a href="https://github.com/ZhuJD-China/Mask_Wearing_best">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZhuJD-China&repo=Mask_Wearing_best&theme=radical" />
+</a> 
+</p>
+
+<p>
+<a href="https://github.com/ZhuJD-China/PixelLib">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZhuJD-China&repo=PixelLib&theme=radical" />
+</a>    
+</p>
+
+<p>
+<a href="https://github.com/ZhuJD-China/Algorithm">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZhuJD-China&repo=Algorithm&theme=radical" />
+</a>   
+</p>
 
 ### Languages and Tools :computer:
 
