@@ -12,7 +12,7 @@
 - ⚡ Fun fact: ...d
 
 <p>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=MrStanDu33&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
+  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=ZhuJD-China&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
   <p>
     <img src="http://views.whatilearened.today/views/github/MrStanDu33/views.svg"/>
     <a href="https://daniels-roth-stan.fr/"><img src="https://img.shields.io/website?label=Website%20status%20%3A&url=https%3A%2F%2Fdaniels-roth-stan.fr%2F"/></a>
@@ -34,7 +34,7 @@
   </a>
 </p>
 
-
+![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
 
 <!--
