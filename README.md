@@ -11,7 +11,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...d
 
-📊 **programing language used**
+📊 **programing language Liked**
 <!--START_SECTION:waka-->
 ```text
 C        ████████▒░░░░░░░░░░░░░░░░   20.88 % 
@@ -51,7 +51,7 @@ Other    ███░░░░░░░░░░░░░░░░░░░░�
 
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZhuJD-China&repo=ZhuJD-China.github.io&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZhuJD-China&repo=zhujd.github.io&theme=radical" />
 </a>
 
 
