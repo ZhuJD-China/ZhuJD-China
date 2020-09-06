@@ -22,6 +22,15 @@
 
 
 
+
+<a href="">
+  <img align="left" alt="ZhuJD-China's Discord" width="21px" src="https://raw.githubusercontent.com/ZhuJD-China/ZhuJD-China/master/assets/discord-round.svg" />
+</a>
+
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZhuJD-China&repo=Mask_Wearing_best&theme=radical" />
+</a>    
+
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
 <!--
