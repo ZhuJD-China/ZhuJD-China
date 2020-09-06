@@ -27,7 +27,7 @@
   <img align="left" alt="ZhuJD-China's Discord" width="21px" src="https://raw.githubusercontent.com/ZhuJD-China/ZhuJD-China/master/assets/discord-round.svg" />
 </a>
 
-<a href="">
+<a href="https://github.com/ZhuJD-China/Mask_Wearing_best">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZhuJD-China&repo=Mask_Wearing_best&theme=radical" />
 </a>    
 
