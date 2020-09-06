@@ -2,15 +2,22 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ZhuJD-China&title=Star,Follower,Commit,Repo,Issue&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...d
 
-📊 **This week I spent my time on**
+📊 **programing language used**
 <!--START_SECTION:waka-->
 ```text
-TypeScript   3 hrs 21 mins   ███████████████████▒░░░░░   76.88 % 
-JSON         30 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
-SCSS         25 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+C        ████████▒░░░░░░░░░░░░░░░░   20.88 % 
+C++      █████████████░░░░░░░░░░░░   35.12 % 
+python   █████████████████░░░░░░░░   45.33 % 
+Other    ███░░░░░░░░░░░░░░░░░░░░░░   10.67 %  
 ```
 <!--END_SECTION:waka-->
 
