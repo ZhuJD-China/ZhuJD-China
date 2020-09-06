@@ -6,23 +6,16 @@
 - 💬 Ask me about your emotion
 - 📫 How to reach me: zhujiadongvip@163.com
 - 😄 Pronouns: 愿中国青年都摆脱冷气，只向上走!
-<p>
+
+### Repositories:
 <a href="https://github.com/ZhuJD-China/Mask_Wearing_best">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=ZhuJD-China&repo=Mask_Wearing_best&theme=radical" />
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=ZhuJD-China&repo=Mask_Wearing_best&theme=radical" />
 </a> 
-</p>
 
-<p style="width: 300px;margin-right:auto;">
-<a href="https://github.com/ZhuJD-China/PixelLib">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=ZhuJD-China&repo=PixelLib&theme=radical" />
-</a>    
-</p>
-
-<p>
 <a href="https://github.com/ZhuJD-China/Algorithm">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZhuJD-China&repo=Algorithm&theme=radical" />
 </a>   
-</p>
+
 
 ### Languages and Tools :computer:
 
