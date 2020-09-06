@@ -7,6 +7,10 @@
 - 📫 How to reach me: zhujiadongvip@163.com
 - 😄 Pronouns: 愿中国青年都摆脱冷气，只向上走!
 
+<a href="https://github.com/ZhuJD-China/Mask_Wearing_best">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZhuJD-China&repo=Mask_Wearing_best&theme=radical" />
+</a>    
+
 ### Languages and Tools :computer:
 
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c++&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102)
@@ -20,10 +24,6 @@
 
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/hritik5102)](https://github.com/hritik5102)
 
-<a href="https://github.com/ZhuJD-China/Mask_Wearing_best">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZhuJD-China&repo=Mask_Wearing_best&theme=radical" />
-</a>    
-<br></br>
 
 <a href="https://github.com/ZhuJD-China">
   <img  align="center" alt="ZhuJD-China's Discord" width="500px" src="https://raw.githubusercontent.com/ZhuJD-China/ZhuJD-China/master/images/girl.png" />
