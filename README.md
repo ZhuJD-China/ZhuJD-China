@@ -24,7 +24,7 @@
 
 
 <a href="">
-  <img align="left" alt="ZhuJD-China's Discord" width="21px" src="https://raw.githubusercontent.com/ZhuJD-China/ZhuJD-China/master/assets/discord-round.svg" />
+  <img align="left" alt="ZhuJD-China's Discord" width="21px" src="https://raw.githubusercontent.com/ZhuJD-China/ZhuJD-China/master/images/ZJD.jpg" />
 </a>
 
 <a href="https://github.com/ZhuJD-China/Mask_Wearing_best">
