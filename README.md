@@ -22,7 +22,7 @@
 
 ### Languages and Tools :computer:
 
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c++&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![JupyterNotebook](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=JupyterNotebook&link=https://github.com/hritik5102)](https://github.com/hritik5102)
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c++&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![Jupyter Notebook](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=Jupyter Notebook&link=https://github.com/hritik5102)](https://github.com/hritik5102)
 
  [![Keras](https://img.shields.io/badge/-Keras-red?style=flat&logo=keras&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![Pytorch](https://img.shields.io/badge/-Pytorch-purple?style=flat&logo=Pytorch&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 
