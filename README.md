@@ -8,8 +8,8 @@
 - 😄 Pronouns: 愿中国青年都摆脱冷气，只向上走!
 
 ### Repositories:
-<a href="https://github.com/ZhuJD-China/Mask_Wearing_best">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=ZhuJD-China&repo=Mask_Wearing_best&theme=radical" />
+<a href="https://github.com/ZhuJD-China/Mask_Wearing">
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=ZhuJD-China&repo=Mask_Wearing&theme=radical" />
 </a> 
 
 <a href="https://github.com/ZhuJD-China/Algorithm">
