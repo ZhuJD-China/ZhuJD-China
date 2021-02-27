@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ZhuJD-China&title=Star,Follower,Commit,Repo,Issue&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
-
 - 🌱 I’m currently learning AI ML DL
 - 💬 Ask me about your emotion
 - 📫 How to reach me: zhujiadongvip@163.com
@@ -58,4 +56,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ZhuJD-China&title=Star,Follower,Commit,Repo,Issue&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
 -->
