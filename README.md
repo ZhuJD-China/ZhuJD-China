@@ -11,7 +11,7 @@
 
 <a href="https://github.com/ZhuJD-China/ECG-Classification-Diagnosis">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZhuJD-China&repo=ECG-Classification-Diagnosis&theme=radical" />
-</a>  \
+</a>  
 
 <a href="https://github.com/ZhuJD-China/Mask_Wearing">
   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=ZhuJD-China&repo=Mask_Wearing&theme=radical" />
