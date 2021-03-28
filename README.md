@@ -14,14 +14,13 @@
 <a href="https://github.com/ZhuJD-China/Mask_Wearing">
   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=ZhuJD-China&repo=Mask_Wearing&theme=radical" />
 </a> 
-
+<a href="https://github.com/ZhuJD-China/Solve-DeepLearning">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZhuJD-China&repo=Solve-DeepLearning&theme=radical" />
+</a>   
 <a href="https://github.com/ZhuJD-China/Algorithm">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZhuJD-China&repo=Algorithm&theme=radical" />
 </a>   
 
-<a href="https://github.com/ZhuJD-China/Kaggle">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZhuJD-China&repo=Kaggle&theme=radical" />
-</a>   
 
 ### Languages and Tools :computer:
 
