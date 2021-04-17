@@ -4,9 +4,7 @@
 - 💬 Ask me about your emotion
 - 📫 How to reach me: zhujiadongvip@163.com
 - 😄 Pronouns: 愿中国青年都摆脱冷气，只向上走!
-- 🌱 I’m currently learning AI ML DL
-Wish everyone can live their wonderful life.
-Learn to be grateful and cherish kind thoughts, and be pure in heart to seek truth. 
+- Wish everyone can live their wonderful life.Learn to be grateful and cherish kind thoughts, and be pure in heart to seek truth. 
 
 ### Repositories:
 
