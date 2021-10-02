@@ -38,7 +38,7 @@
 
 
 <a href="https://github.com/ZhuJD-China">
-  <img  align="center" alt="ZhuJD-China's Discord" width="300px" src="https://raw.githubusercontent.com/ZhuJD-China/ZhuJD-China/master/images/girl.png" />
+  <img  align="center" alt="ZhuJD-China's Discord" width="300px" src="https://raw.githubusercontent.com/ZhuJD-China/ZhuJD-China/master/images/ZJD1.jpg" />
 </a>
 
 
