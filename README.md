@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning AI ML DL
 - 💬 Ask me about your emotion
 - 📫 How to reach me: zhujiadongvip@163.com
-- 😄 Pronouns: 愿中国青年都摆脱冷气，只向上走!
-- Men must choose between progress and comfort.
+- 😄 Pronouns: Men must choose between progress and comfort.
 
 ### Repositories:
 
