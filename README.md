@@ -7,6 +7,10 @@
 
 ### Repositories:
 
+<a href="https://github.com/ZhuJD-China/MachineLearning_APP">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZhuJD-China&repo=MachineLearning_APP&theme=radical" />
+</a>  
+
 <a href="https://github.com/ZhuJD-China/ECG-Classification-Diagnosis">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZhuJD-China&repo=ECG-Classification-Diagnosis&theme=radical" />
 </a>  
