@@ -7,10 +7,6 @@
 
 ### Repositories:
 
-<a href="https://github.com/ZhuJD-China/MachineLearning_APP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZhuJD-China&repo=MachineLearning_APP&theme=radical" />
-</a>  
-
 <a href="https://github.com/ZhuJD-China/ECG-Classification-Diagnosis">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZhuJD-China&repo=ECG-Classification-Diagnosis&theme=radical" />
 </a>  
@@ -18,9 +14,7 @@
 <a href="https://github.com/ZhuJD-China/Mask_Wearing">
   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=ZhuJD-China&repo=Mask_Wearing&theme=radical" />
 </a> 
-<a href="https://github.com/ZhuJD-China/DeepLearning">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZhuJD-China&repo=DeepLearning&theme=radical" />
-</a>   
+
 <a href="https://github.com/ZhuJD-China/Algorithm">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZhuJD-China&repo=Algorithm&theme=radical" />
 </a>   
