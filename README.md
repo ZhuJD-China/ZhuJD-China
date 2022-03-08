@@ -37,10 +37,6 @@
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/hritik5102)](https://github.com/hritik5102)
 
 
-<a href="https://github.com/ZhuJD-China">
-  <img  align="center" alt="ZhuJD-China's Discord" width="600px" src="https://raw.githubusercontent.com/ZhuJD-China/ZhuJD-China/master/images/ZJD1.jpg" />
-</a>
-
 
 <!--
 
