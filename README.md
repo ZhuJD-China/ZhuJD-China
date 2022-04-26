@@ -11,10 +11,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZhuJD-China&repo=ECG-Classification-Diagnosis&theme=radical" />
 </a>  
 
-<a href="https://github.com/ZhuJD-China/labelme2yolov5_format">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZhuJD-China&repo=labelme2yolov5_format&theme=radical" />
-</a>  
-
 <a href="https://github.com/ZhuJD-China/Mask_Wearing">
   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=ZhuJD-China&repo=Mask_Wearing&theme=radical" />
 </a> 
@@ -23,6 +19,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZhuJD-China&repo=Algorithm&theme=radical" />
 </a>   
 
+<a href="https://github.com/ZhuJD-China/Clash_for_Windows">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZhuJD-China&repo=Clash_for_Windows&theme=radical" />
+</a>  
 
 ### Languages and Tools :computer:
 
