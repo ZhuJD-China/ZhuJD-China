@@ -15,10 +15,6 @@
   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=ZhuJD-China&repo=Mask_Wearing&theme=radical" />
 </a> 
 
-<a href="https://github.com/ZhuJD-China/Clash_for_Windows">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZhuJD-China&repo=Clash_for_Windows&theme=radical" />
-</a>  
-
 <a href="https://github.com/ZhuJD-China/Algorithm">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZhuJD-China&repo=Algorithm&theme=radical" />
 </a>   
