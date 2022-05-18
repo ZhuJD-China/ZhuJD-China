@@ -5,7 +5,7 @@
 - 📫 How to reach me: zhujiadongvip@163.com
 - 😄 Pronouns: Men must choose between progress and comfort.
 
-### Repositories:
+<!-- ### Repositories:
 
 <a href="https://github.com/ZhuJD-China/ECG-Classification-Diagnosis">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZhuJD-China&repo=ECG-Classification-Diagnosis&theme=radical" />
@@ -22,7 +22,7 @@
 <a href="https://github.com/ZhuJD-China/Algorithm">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZhuJD-China&repo=Algorithm&theme=radical" />
 </a> 
-
+ -->
 
 ### Languages and Tools :computer:
 
