@@ -6,8 +6,8 @@
 - 😄 Pronouns: Men must choose between progress and comfort.
 
 ### Languages and Tools :computer:
-[![My Skills](https://skillicons.dev/icons?i=ai,go,gitlab,electron,docker,discord,cpp,py,pytorch,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=go,gitlab,electron,docker,discord,gcp,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ai,py,pytorch,cpp,raspberrypi,tensorflow)](https://skillicons.dev)
 
 
 
