@@ -1,17 +1,19 @@
 <h1>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px">  I'm  Norris Zhu. </h1>
 
-- 🌱 I’m currently learning AI ML DL
-- 💬 Ask me about your emotion
-- 📫 How to reach me: zhujiadongvip@163.com
-- 😄 Pronouns: Men must choose between progress and comfort.
 
 ### Languages and Tools :computer:
 [![My Skills](https://skillicons.dev/icons?i=ai,py,pytorch,cpp,raspberrypi,tensorflow)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=go,gitlab,electron,docker,discord,gcp)](https://skillicons.dev)
 
+### Free life:life
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+
+- 📫 How to reach me: zhujiadongvip@163.com
+
+
+
 
 
 <!-- [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c++&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
