@@ -5,6 +5,8 @@
 - 📫 How to reach me: zhujiadongvip@163.com
 - 😄 Pronouns: Men must choose between progress and comfort.
 
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+
 <!-- ### Repositories:
 
 <a href="https://github.com/ZhuJD-China/ECG-Classification-Diagnosis">
