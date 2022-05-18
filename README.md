@@ -7,6 +7,7 @@
 
 ### Languages and Tools :computer:
 [![My Skills](https://skillicons.dev/icons?i=ai,py,pytorch,cpp,raspberrypi,tensorflow)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=go,gitlab,electron,docker,discord,gcp)](https://skillicons.dev)
 
 
