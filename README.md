@@ -8,9 +8,9 @@
 
 ### Free Life
 <div align="left">
-[![Twitter](https://img.shields.io/badge/ZhuJD-China-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/zhujiadong1/)
-[![github](https://img.shields.io/badge/ZhuJD-China-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZhuJD-China/)
-![](https://komarev.com/ghpvc/?username=ZhuJD-China&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
+[![Twitter](https://img.shields.io/badge/NorrisZhu-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/zhujiadong1/)
+[![github](https://img.shields.io/badge/NorrisZhu-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZhuJD-China/)
+![](https://komarev.com/ghpvc/?username=NorrisZhue&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
 </div>  
 
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
