@@ -1,4 +1,4 @@
-<h1>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px">  I'm  ZhuJiaDong. </h1>
+<h1>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px">  I'm  Norris Zhu. </h1>
 
 - 🌱 I’m currently learning AI ML DL
 - 💬 Ask me about your emotion
