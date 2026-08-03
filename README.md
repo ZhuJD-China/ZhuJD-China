@@ -50,8 +50,6 @@
   <img src="https://img.shields.io/badge/CUDA_x_TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA"/>
 </p>
 
-#### Toolchain & DevOps
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,go,pytorch,tensorflow,docker,gcp,gitlab,electron,raspberrypi,discord,githubactions)](https://skillicons.dev)
 
 ---
 
@@ -66,11 +64,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZhuJD-China&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<div align="center" style="margin-top: 15px;">
-  <a href="https://github.com/ZhuJD-China">
-    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ZhuJD-China&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
-  </a>
-</div>
 
 ---
 
