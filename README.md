@@ -1,12 +1,17 @@
 <div align="center">
 
-<!-- 整合式打字动画 Header -->
+<!-- 动态头部 GIF 挂件与打字动画 Header -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJmdjByZnE1dWZpeTZiYXZlNmFybndvZGlvZGZldWZvMHh6dmRldCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUl22k41A3O59gACqH/giphy.gif" alt="Coding Cat" width="50" />
+</p>
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=61AFEF&center=true&vCenter=true&width=720&lines=Hi+there!+I'm+Norris+Zhu+%F0%9F%91%8B;AI+Systems+%26+Computer+Vision+Engineer;Powered+by+Claude+Opus+5%2C+GPT-5.6+Sol+%26+DeepSeek+V4;C%2B%2B20%2F23+%2F+PyTorch+%2F+CUDA+%2F+VLM+Architect" alt="Typing SVG" />
 </a>
 
 <p align="center">
-  <code>AI Systems Engineer</code> &nbsp;|&nbsp; <code>Computer Vision & AOI</code> &nbsp;|&nbsp; <code>Agentic Workflows</code>
+  <code>⚡ AI Systems Engineer</code> &nbsp;🧩&nbsp; <code>👁️ Computer Vision & AOI</code> &nbsp;🧩&nbsp; <code>🤖 Agentic Workflows</code>
 </p>
 
 <!-- 访客流量记录 + 极简社交徽章 -->
@@ -19,20 +24,20 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a425-11eb-92be-5b32688dd17d.gif" width="100%" alt="Divider"/>
 
-### ─── ABOUT ME ───
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="30"/> ABOUT ME
 
-- **Focus Area**: Multimodal Vision-Language Models (VLMs), Continuous Frame Tracking, and High-Precision Industrial Inspection (AOI).
-- **Frontier AI Integration**: Architecting agentic pipelines around **Claude Opus 5 / Fable 5**, **OpenAI GPT-5.6 (Sol / Terra)**, **DeepSeek V4**, and **Gemini 3.5 / 3.6** for complex automated reasoning & system synthesis.
-- **Core Engineering**: Modern C++ (C++20/23), PyTorch Deep Learning Frameworks, CUDA / TensorRT Acceleration, and Low-Latency Edge Vision Systems.
-- **Contact**: `zhujiadongvip@gmail.com` / `zhujiadongvip@163.com`
+* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="20"/> **Focus Area**: Multimodal Vision-Language Models (VLMs), Continuous Frame Tracking, and High-Precision Industrial Inspection (AOI).
+* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="20"/> **Frontier AI Integration**: Architecting agentic pipelines around **Claude Opus 5 / Fable 5**, **OpenAI GPT-5.6 (Sol / Terra)**, **DeepSeek V4**, and **Gemini 3.5 / 3.6** for complex automated reasoning & system synthesis.
+* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="20"/> **Core Engineering**: Modern C++ (C++20/23), PyTorch Deep Learning Frameworks, CUDA / TensorRT Acceleration, and Low-Latency Edge Vision Systems.
+* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" width="20"/> **Contact**: `zhujiadongvip@gmail.com` / `zhujiadongvip@163.com`
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a425-11eb-92be-5b32688dd17d.gif" width="100%" alt="Divider"/>
 
-### ─── TECH STACK & FRONTIER AI ECOSYSTEM ───
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30"/> TECH STACK & FRONTIER AI ECOSYSTEM
 
-#### 2026 Frontier AI Models & Agent Architectures
+#### 🧠 2026 Frontier AI Models & Agent Architectures
 <p>
   <img src="https://img.shields.io/badge/Claude_Opus_5_%2F_Fable_5-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude 5 Series"/>
   <img src="https://img.shields.io/badge/GPT--5.6_Sol_%2F_Terra-412991?style=for-the-badge&logo=openai&logoColor=white" alt="GPT-5.6 Series"/>
@@ -41,7 +46,7 @@
   <img src="https://img.shields.io/badge/Kimi_K3_%2F_Qwen3.7-6B21A8?style=for-the-badge&logo=alibabacloud&logoColor=white" alt="Kimi K3 & Qwen3.7"/>
 </p>
 
-#### Core Languages & Systems Engineering
+#### ⚙️ Core Languages & Systems Engineering
 <p>
   <img src="https://img.shields.io/badge/C%2B%2B20%2F23-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Python_3.12+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -50,10 +55,12 @@
   <img src="https://img.shields.io/badge/CUDA_x_TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA"/>
 </p>
 
+#### 🛠️ Developer Toolchain
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,go,pytorch,tensorflow,docker,gcp,gitlab,electron,raspberrypi,discord,githubactions)](https://skillicons.dev)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a425-11eb-92be-5b32688dd17d.gif" width="100%" alt="Divider"/>
 
-### ─── GITHUB ACTIVITY & STATS ───
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30"/> GITHUB STATS & ACTIVITY
 
 <div align="center">
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ZhuJD-China&show_icons=true&theme=tokyonight&hide_border=true" alt="Norris's GitHub Stats"/>
@@ -64,9 +71,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZhuJD-China&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
+<div align="center" style="margin-top: 15px;">
+  <a href="https://github.com/ZhuJD-China">
+    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ZhuJD-China&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  </a>
+</div>
 
 ---
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="22" />
   <sub><i>Driven by Code, Powered by Frontier Intelligence.</i></sub>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="22" />
 </div>
