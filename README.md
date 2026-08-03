@@ -1,76 +1,59 @@
-<h1>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px">  I'm  Norris Zhu. </h1>
+<div align="center">
 
+<!-- 动态打字效果 Header 动画 -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Norris+Zhu+%F0%9F%91%8B;AIGC+%26+AI-Driven+Developer;Building+with+Claude+Code+%26+Codex;Computer+Vision+%26+Deep+Learning+Architect" alt="Typing SVG" />
+</a>
 
-### Languages and Tools :computer:
-[![My Skills](https://skillicons.dev/icons?i=ai,py,pytorch,cpp,raspberrypi,tensorflow)](https://skillicons.dev)
+<p align="center">
+  <b>🤖 AI Systems Engineer</b> | <b>⚡ AIGC & Autonomous Agents</b> | <b>👁️ Computer Vision & C++</b>
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=go,gitlab,electron,docker,discord,gcp)](https://skillicons.dev)
+<!-- 社交与浏览统计 -->
+<p align="center">
+  <a href="https://twitter.com/zhujiadong1/"><img src="https://img.shields.io/badge/X%2F%20Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://github.com/ZhuJD-China/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:zhujiadongvip@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=NorrisZhue&label=PROFILE+VIEWS&style=for-the-badge&color=007ACC" alt="Views"/>
+</p>
 
-### Free Life
-<div align="left">
- 
-[![Twitter](https://img.shields.io/badge/NorrisZhu-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/zhujiadong1/)
-[![github](https://img.shields.io/badge/NorrisZhu-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZhuJD-China/)
-![](https://komarev.com/ghpvc/?username=NorrisZhue&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
+</div>
 
-</div>  
+---
 
-<!-- ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) -->
+### 💡 About Me
 
-- 📫 How to reach me: zhujiadongvip@gmail.com / zhujiadongvip@163.com
+- 🔭 **Current Focus**: Next-Gen AIGC Workflows, LLM/VLM Applications, and High-Performance Vision Systems.
+- ⚡ **AI-Native Engineering**: Leveraging **Claude Code**, **OpenAI Codex**, and **GPT Models** for next-gen developer productivity.
+- 🛠️ **Core Tech**: C++ / Python Performance Tuning, PyTorch Deep Learning Architectures, and Industrial Automation.
+- 📫 **Reach Me**: `zhujiadongvip@gmail.com` / `zhujiadongvip@163.com`
 
+---
 
+### 🧠 AI & Tech Stack
 
+#### AIGC & AI Agent Ecosystem
+<p>
+  <img src="https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/>
+  <img src="https://img.shields.io/badge/OpenAI_Codex-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="Codex"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+</p>
 
+#### 💻 Language & Tooling
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,go,pytorch,tensorflow,docker,gcp,gitlab,electron,raspberrypi,discord,githubactions)](https://skillicons.dev)
 
-<!-- [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c++&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
+---
 
- [![Keras](https://img.shields.io/badge/-Keras-red?style=flat&logo=keras&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![Pytorch](https://img.shields.io/badge/-Pytorch-purple?style=flat&logo=Pytorch&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
+### 📊 GitHub Activity & Stats
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/hritik5102)](https://github.com/hritik5102)
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/hritik5102)](https://github.com/hritik5102)
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ZhuJD-China&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Norris's GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhuJD-China&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</div>
 
- [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
+---
 
-[![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/hritik5102)](https://github.com/hritik5102) -->
-
-
-
-<!-- ### Repositories:
-
-<a href="https://github.com/ZhuJD-China/ECG-Classification-Diagnosis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZhuJD-China&repo=ECG-Classification-Diagnosis&theme=radical" />
-</a>  
-
-<a href="https://github.com/ZhuJD-China/Mask_Wearing">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=ZhuJD-China&repo=Mask_Wearing&theme=radical" />
-</a> 
-
-<a href="https://github.com/ZhuJD-China/ImgAug_yolov5">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZhuJD-China&repo=ImgAug_yolov5&theme=radical" />
-</a>   
-
-<a href="https://github.com/ZhuJD-China/Algorithm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZhuJD-China&repo=Algorithm&theme=radical" />
-</a> 
- -->
-
-<!--
-
-**ZhuJD-China/ZhuJD-China** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ZhuJD-China&title=Star,Follower,Commit,Repo,Issue&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
-
--->
+<div align="center">
+  <sub><i>Driven by Code, Powered by Intelligence. 🚀</i></sub>
+</div>
