@@ -42,8 +42,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a425-11eb-92be-5b32688dd17d.gif" width="100%" alt="Divider"/>
 </p>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="28" align="center"/> TECH STACK & FRONTIER AI ECOSYSTEM
-
 #### 🧠 Frontier AI Models & Agent Architectures
 <p>
   <img src="https://img.shields.io/badge/Claude_Opus_5_%2F_Fable_5-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude 5 Series"/>
