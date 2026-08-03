@@ -2,7 +2,6 @@
 
 <!-- 动态头部 GIF 挂件与打字动画 Header -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="48" align="center" />
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJmdjByZnE1dWZpeTZiYXZlNmFybndvZGlvZGZldWZvMHh6dmRldCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUl22k41A3O59gACqH/giphy.gif" alt="Coding Cat" width="52" align="center" />
 </p>
 
