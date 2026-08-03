@@ -9,8 +9,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=61AFEF&center=true&vCenter=true&width=720&lines=Hi+there!+I'm+Norris+Zhu+%F0%9F%91%8B;AI+Systems+%26+Computer+Vision+Engineer;Powered+by+Claude+Opus+5%2C+GPT-5.6+Sol+%26+DeepSeek+V4;C%2B%2B20%2F23+%2F+PyTorch+%2F+CUDA+%2F+VLM+Architect" alt="Typing SVG" />
 </a>
 
-<br/>
-
 <p align="center">
   <code>⚡ AI Systems Engineer</code> &nbsp;•&nbsp; 
   <code>👁️ Computer Vision & AOI</code> &nbsp;•&nbsp; 
@@ -37,11 +35,7 @@
 * <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="22" align="center"/> **Frontier AI Integration**: Architecting agentic pipelines around **Claude Opus 5 / Fable 5**, **OpenAI GPT-5.6 (Sol / Terra)**, **DeepSeek V4**, and **Gemini 3.5 / 3.6** for complex automated reasoning & system synthesis.
 * <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="22" align="center"/> **Core Engineering**: Modern C++ (C++20/23), PyTorch Deep Learning Frameworks, CUDA / TensorRT Acceleration, and Low-Latency Edge Vision Systems.
 * <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" width="22" align="center"/> **Contact**: `zhujiadongvip@gmail.com` &nbsp;|&nbsp; `zhujiadongvip@163.com`
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a425-11eb-92be-5b32688dd17d.gif" width="100%" alt="Divider"/>
-</p>
-
+  
 #### 🧠 Frontier AI Models & Agent Architectures
 <p>
   <img src="https://img.shields.io/badge/Claude_Opus_5_%2F_Fable_5-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude 5 Series"/>
