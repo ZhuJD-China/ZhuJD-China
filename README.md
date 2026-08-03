@@ -19,7 +19,7 @@
 
 <!-- 访客流量记录 + 极简社交徽章 -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NorrisZhu&label=PROFILE+VIEWS&style=for-the-badge&color=007ACC" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=NorrisZhue&label=PROFILE+VIEWS&style=for-the-badge&color=007ACC" alt="Profile Views"/>
   <a href="https://twitter.com/zhujiadong1/"><img src="https://img.shields.io/badge/X-181717?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   <a href="https://github.com/ZhuJD-China/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="mailto:zhujiadongvip@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
