@@ -55,30 +55,6 @@
   <img src="https://img.shields.io/badge/CUDA_x_TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA"/>
 </p>
 
-#### 🛠️ Developer Toolchain
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,go,pytorch,tensorflow,docker,gcp,gitlab,electron,raspberrypi,discord,githubactions)](https://skillicons.dev)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a425-11eb-92be-5b32688dd17d.gif" width="100%" alt="Divider"/>
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30"/> GITHUB STATS & ACTIVITY
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ZhuJD-China&show_icons=true&theme=tokyonight&hide_border=true" alt="Norris's GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ZhuJD-China&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</div>
-
-<div align="center" style="margin-top: 15px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZhuJD-China&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center" style="margin-top: 15px;">
-  <a href="https://github.com/ZhuJD-China">
-    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ZhuJD-China&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
-  </a>
-</div>
-
----
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="22" />
   <sub><i>Driven by Code, Powered by Frontier Intelligence.</i></sub>
