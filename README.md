@@ -1,5 +1,10 @@
 <div align="center">
 
+<!-- Header 动图招手 + 标题 -->
+<h1>
+  Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38px" alt="wave"> I'm Norris Zhu
+</h1>
+
 <!-- 2026 动态打字效果动画 -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=AIGC+%26+AI-Driven+Developer;Claude+Code+%2B+Codex+%2B+GPT-4o;Computer+Vision+%26+Deep+Learning;C%2B%2B+%26+Python+High-Performance+Systems" alt="Typing SVG" />
