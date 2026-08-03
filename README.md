@@ -1,10 +1,5 @@
 <div align="center">
 
-<!-- 招手 GIF 表情包 + 标题 -->
-<h1>
-  Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38px" alt="wave"> I'm Norris Zhu
-</h1>
-
 <!-- 2026 动态打字效果动画 -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=AIGC+%26+AI-Driven+Developer;Claude+Code+%2B+Codex+%2B+GPT-4o;Computer+Vision+%26+Deep+Learning;C%2B%2B+%26+Python+High-Performance+Systems" alt="Typing SVG" />
@@ -54,14 +49,21 @@
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <!-- GitHub 基础统计与语言偏好卡片 -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ZhuJD-China&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Norris's GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhuJD-China&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <!-- 修复后的 GitHub 基础统计与常用语言卡片（改用高稳定镜像节点，防止限流破图） -->
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ZhuJD-China&show_icons=true&theme=tokyonight&hide_border=true" alt="Norris's GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ZhuJD-China&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </div>
 
-<div align="center" style="margin-top: 10px;">
-  <!-- GitHub 连续 Submit 状态卡片（稳定性更高） -->
+<div align="center" style="margin-top: 15px;">
+  <!-- GitHub 连续 Commit 状态卡片 -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZhuJD-China&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center" style="margin-top: 15px;">
+  <!-- GitHub 动态提交波形图（高稳定性防破图备用） -->
+  <a href="https://github.com/ZhuJD-China">
+    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ZhuJD-China&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  </a>
 </div>
 
 ---
