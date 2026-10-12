@@ -7,18 +7,13 @@
      3) 顶部 Snapshot 快照日期徽章
      ============================================================ -->
 
-<table>
-  <tr>
-    <td valign="middle" width="90">
-      <img src="https://i.giphy.com/WUl22k41A3O59gACqH.gif" alt="Coding Cat" width="72"/>
-    </td>
-    <td valign="middle">
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=61AFEF&center=false&vCenter=true&width=560&lines=Hi+there!+I'm+Norris+Zhu+%F0%9F%91%8B;AI+Systems+%26+Computer+Vision+Engineer;Claude+Opus+5.5+%C2%B7+GPT-6.1+Sol+%C2%B7+Gemini+4+Argon;C%2B%2B20%2F23+%2F+PyTorch+%2F+CUDA+%2F+VLM+Architect" alt="Typing SVG" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://i.giphy.com/WUl22k41A3O59gACqH.gif" alt="Coding Cat" width="72" align="middle"/>
+  &nbsp;
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=61AFEF&center=false&vCenter=true&width=540&lines=Hi+there!+I'm+Norris+Zhu+%F0%9F%91%8B;AI+Systems+%26+Computer+Vision+Engineer;Claude+Opus+5.5+%C2%B7+GPT-6.1+Sol+%C2%B7+Gemini+4+Argon;C%2B%2B20%2F23+%2F+PyTorch+%2F+CUDA+%2F+VLM+Architect" alt="Typing SVG" align="middle"/>
+  </a>
+</p>
 
 <p>
   <code>⚡ AI Systems Engineer</code> &nbsp;•&nbsp;
@@ -27,7 +22,7 @@
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=NorrisZhue&label=PROFILE+VIEWS&style=for-the-badge&color=007ACC" alt="Profile Views"/>
+  <img src="https://api.visitorbadge.io/api/visitors?path=NorrisZhue&label=PROFILE%20VIEWS&labelColor=007ACC&labelTextColor=ffffff&color=007ACC&countTextColor=ffffff&countFormat=CompactDecimal&style=for-the-badge" alt="Profile Views"/>
   <a href="https://twitter.com/zhujiadong1/"><img src="https://img.shields.io/badge/X-181717?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   <a href="https://github.com/ZhuJD-China/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="mailto:zhujiadongvip@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -45,6 +40,7 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="22" align="center"/> **Focus**: Multimodal Vision-Language Models (VLMs), continuous frame tracking, and high-precision industrial inspection (AOI).
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="22" align="center"/> **Frontier AI Integration**: Architecting agentic pipelines around **Claude Opus 5.5 / Fable 5.1**, **GPT-6.1 Sol / Luna**, **Gemini 4 Argon**, and open-weight **DeepSeek V4.1 / Qwen3.8** for automated reasoning and system synthesis.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="22" align="center"/> **Core Engineering**: Modern C++ (C++20/23), PyTorch, CUDA / TensorRT acceleration, and low-latency edge vision systems.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" width="22" align="center"/> **AI Security & Reverse Engineering**: Adversarial robustness & red-teaming of VLMs, model internals / weight-format reverse analysis, binary & firmware RE for intelligent systems.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" width="22" align="center"/> **Contact**: `zhujiadongvip@gmail.com` &nbsp;|&nbsp; `zhujiadongvip@163.com`
 
 ---
@@ -56,7 +52,9 @@
   <img src="https://img.shields.io/badge/GPT--6.1_Sol_%2F_Luna-412991?style=for-the-badge&logo=openai&logoColor=white" alt="GPT-6.1 Sol / Luna"/>
   <img src="https://img.shields.io/badge/Gemini_4_Argon_%2F_3.8-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini 4 Argon / 3.8"/>
   <img src="https://img.shields.io/badge/DeepSeek_V4.1_%2F_V4_Pro-0052CC?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek V4.1 / V4 Pro"/>
-  <img src="https://img.shields.io/badge/Qwen3.8_Max_%2F_Kimi_K3-6B21A8?style=for-the-badge&logo=alibabacloud&logoColor=white" alt="Qwen3.8 Max / Kimi K3"/>
+  <img src="https://img.shields.io/badge/Grok_4.7-181717?style=for-the-badge&logo=x&logoColor=white" alt="Grok 4.7"/>
+  <img src="https://img.shields.io/badge/Qwen3.8_Max-6B21A8?style=for-the-badge&logo=alibabacloud&logoColor=white" alt="Qwen3.8 Max"/>
+  <img src="https://img.shields.io/badge/Kimi_K3-0D1117?style=for-the-badge&logoColor=white" alt="Kimi K3"/>
 </p>
 
 ---
@@ -73,62 +71,10 @@
   <img src="https://img.shields.io/badge/Edge_AI-0D1117?style=for-the-badge&logo=nvidia&logoColor=white" alt="Edge AI"/>
   <img src="https://img.shields.io/badge/MCP-0D1117?style=for-the-badge&logo=anthropic&logoColor=white" alt="MCP"/>
   <img src="https://img.shields.io/badge/Multi--Agent-0D1117?style=for-the-badge&logo=openai&logoColor=white" alt="Multi-Agent"/>
+  <img src="https://img.shields.io/badge/AI_Security-0D1117?style=for-the-badge&logo=hackthebox&logoColor=white" alt="AI Security"/>
+  <img src="https://img.shields.io/badge/AI_Reverse--Engineering-0D1117?style=for-the-badge&logo=wireshark&logoColor=white" alt="AI Reverse Engineering"/>
+  <img src="https://img.shields.io/badge/Adversarial_ML-0D1117?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Adversarial ML"/>
 </p>
-
----
-
-### 🔭 What I Build · 项目焦点
-
-<table>
-  <tr>
-    <td width="50%" align="center" bgcolor="#0D1117">
-      <br/>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Factory.png" width="48"/>
-      <br/><br/>
-      <b><font color="#61AFEF">🏭 Industrial Vision</font></b>
-      <br/><br/>
-      <sub><font color="#8B949E">AOI defect detection</font></sub><br/>
-      <sub><font color="#8B949E">Continuous frame tracking</font></sub><br/>
-      <sub><font color="#8B949E">VLM-guided inspection</font></sub>
-      <br/><br/>
-    </td>
-    <td width="50%" align="center" bgcolor="#0D1117">
-      <br/>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" width="48"/>
-      <br/><br/>
-      <b><font color="#BC8CFF">🤖 Agentic Systems</font></b>
-      <br/><br/>
-      <sub><font color="#8B949E">Multi-agent pipelines</font></sub><br/>
-      <sub><font color="#8B949E">Tool orchestration</font></sub><br/>
-      <sub><font color="#8B949E">Automated reasoning</font></sub>
-      <br/><br/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" bgcolor="#0D1117">
-      <br/>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="48"/>
-      <br/><br/>
-      <b><font color="#FFA657">⚡ High-Performance Edge</font></b>
-      <br/><br/>
-      <sub><font color="#8B949E">C++20/23 · CUDA / TensorRT</font></sub><br/>
-      <sub><font color="#8B949E">Low-latency inference</font></sub><br/>
-      <sub><font color="#8B949E">Edge deployment</font></sub>
-      <br/><br/>
-    </td>
-    <td width="50%" align="center" bgcolor="#0D1117">
-      <br/>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Screwdriver.png" width="48"/>
-      <br/><br/>
-      <b><font color="#7EE787">🔧 Reverse Engineering</font></b>
-      <br/><br/>
-      <sub><font color="#8B949E">Binary analysis</font></sub><br/>
-      <sub><font color="#8B949E">Protocol & firmware RE</font></sub><br/>
-      <sub><font color="#8B949E">Instrumentation & tooling</font></sub>
-      <br/><br/>
-    </td>
-  </tr>
-</table>
 
 ---
 
