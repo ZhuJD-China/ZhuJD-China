@@ -7,7 +7,7 @@
      3) "Frontier Models" 徽章行
      ============================================================ -->
 
-<img src="https://i.giphy.com/WUl22k41A3O59gACqH.gif" alt="Coding Cat" width="60"/>
+<img src="https://i.giphy.com/WUl22k41A3O59gACqH.gif" alt="Coding Cat" width="80"/>
 
 <br/><br/>
 
