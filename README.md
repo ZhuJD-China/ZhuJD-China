@@ -3,17 +3,22 @@
 <!-- ============================================================
      PROFILE HEADER · 更新清单 (模型迭代快，改这三处即可):
      1) typing-svg 的 lines 参数
-     2) 下方 "Frontier Model Radar" 表格 + 快照日期徽章
-     3) "Frontier Models" 徽章行
+     2) "Frontier Models" 模型徽章行
+     3) 顶部 Snapshot 快照日期徽章
      ============================================================ -->
 
-<img src="https://i.giphy.com/WUl22k41A3O59gACqH.gif" alt="Coding Cat" width="80"/>
-
-<br/><br/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=61AFEF&center=true&vCenter=true&width=720&lines=Hi+there!+I'm+Norris+Zhu+%F0%9F%91%8B;AI+Systems+%26+Computer+Vision+Engineer;Claude+Opus+5.5+%C2%B7+GPT-6.1+Sol+%C2%B7+Gemini+4+Argon;C%2B%2B20%2F23+%2F+PyTorch+%2F+CUDA+%2F+VLM+Architect" alt="Typing SVG" />
-</a>
+<table>
+  <tr>
+    <td valign="middle" width="90">
+      <img src="https://i.giphy.com/WUl22k41A3O59gACqH.gif" alt="Coding Cat" width="72"/>
+    </td>
+    <td valign="middle">
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=61AFEF&center=false&vCenter=true&width=560&lines=Hi+there!+I'm+Norris+Zhu+%F0%9F%91%8B;AI+Systems+%26+Computer+Vision+Engineer;Claude+Opus+5.5+%C2%B7+GPT-6.1+Sol+%C2%B7+Gemini+4+Argon;C%2B%2B20%2F23+%2F+PyTorch+%2F+CUDA+%2F+VLM+Architect" alt="Typing SVG" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p>
   <code>⚡ AI Systems Engineer</code> &nbsp;•&nbsp;
@@ -44,16 +49,7 @@
 
 ---
 
-### 🛰️ Frontier Model Radar · 前沿模型雷达
-
-| Lab | Frontier Flagship | Efficient / Open-Weight |
-| :-- | :-- | :-- |
-| **Anthropic** | Claude Fable 5.1 · Opus 5.5 · Sonnet 5.5 | Claude Mythos |
-| **OpenAI** | GPT-6.1 Sol · GPT-6 Astra | GPT-6 Luna |
-| **Google DeepMind** | Gemini 4 Argon | Gemini 3.8 Flash |
-| **DeepSeek** | DeepSeek V4-Pro-0813 | V4.1-Flash · V4-Flash (MIT) |
-| **Alibaba Qwen** | Qwen3.8-Max | Qwen3.8-Flash · 27B (Apache 2.0) |
-| **Open Frontier** | Kimi K3 · GLM-5.3 · Grok 4.7 | MiMo V2.6 · Muse Spark 1.3 |
+### 🛰️ Frontier Models · 前沿模型
 
 <p>
   <img src="https://img.shields.io/badge/Claude_Fable_5.1_%2F_Opus_5.5-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Fable 5.1 / Opus 5.5"/>
@@ -67,37 +63,16 @@
 
 ### ⚙️ Tech Stack · 技术栈
 
-#### 🔤 Languages & Systems
-
 <p>
   <img src="https://img.shields.io/badge/C%2B%2B20%2F23-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++20/23"/>
   <img src="https://img.shields.io/badge/Python_3.12+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.12+"/>
-  <img src="https://img.shields.io/badge/Linux-161616?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
-</p>
-
-#### 🧠 Deep Learning & Acceleration
-
-<p>
   <img src="https://img.shields.io/badge/PyTorch_2.x-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch 2.x"/>
   <img src="https://img.shields.io/badge/CUDA_x_TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA / TensorRT"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-</p>
-
-#### 👁️ Vision & Industrial AI
-
-<p>
   <img src="https://img.shields.io/badge/Multimodal_VLM-0D1117?style=for-the-badge&logo=huggingface&logoColor=white" alt="Multimodal VLM"/>
-  <img src="https://img.shields.io/badge/AOI_Inspection-0D1117?style=for-the-badge&logo=opencv&logoColor=white" alt="AOI Inspection"/>
-  <img src="https://img.shields.io/badge/Edge_AI_Deployment-0D1117?style=for-the-badge&logo=nvidia&logoColor=white" alt="Edge AI Deployment"/>
-</p>
-
-#### 🤖 Agentic Engineering
-
-<p>
+  <img src="https://img.shields.io/badge/Edge_AI-0D1117?style=for-the-badge&logo=nvidia&logoColor=white" alt="Edge AI"/>
   <img src="https://img.shields.io/badge/MCP-0D1117?style=for-the-badge&logo=anthropic&logoColor=white" alt="MCP"/>
-  <img src="https://img.shields.io/badge/Multi--Agent_Orchestration-0D1117?style=for-the-badge&logo=openai&logoColor=white" alt="Multi-Agent Orchestration"/>
-  <img src="https://img.shields.io/badge/Tool--Use_Pipelines-0D1117?style=for-the-badge&logo=langchain&logoColor=white" alt="Tool-Use Pipelines"/>
-  <img src="https://img.shields.io/badge/Eval--Driven-0D1117?style=for-the-badge&logo=pytest&logoColor=white" alt="Eval-Driven"/>
+  <img src="https://img.shields.io/badge/Multi--Agent-0D1117?style=for-the-badge&logo=openai&logoColor=white" alt="Multi-Agent"/>
 </p>
 
 ---
@@ -106,28 +81,50 @@
 
 <table>
   <tr>
-    <td width="33%" align="center">
+    <td width="50%" align="center" bgcolor="#0D1117">
       <br/>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Factory.png" width="40"/>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Factory.png" width="48"/>
       <br/><br/>
-      <b>🏭 Industrial Vision</b><br/>
-      <sub>AOI defect detection · continuous frame tracking · VLM-guided inspection</sub>
+      <b><font color="#61AFEF">🏭 Industrial Vision</font></b>
+      <br/><br/>
+      <sub><font color="#8B949E">AOI defect detection</font></sub><br/>
+      <sub><font color="#8B949E">Continuous frame tracking</font></sub><br/>
+      <sub><font color="#8B949E">VLM-guided inspection</font></sub>
       <br/><br/>
     </td>
-    <td width="33%" align="center">
+    <td width="50%" align="center" bgcolor="#0D1117">
       <br/>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" width="40"/>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" width="48"/>
       <br/><br/>
-      <b>🤖 Agentic Systems</b><br/>
-      <sub>multi-agent pipelines · tool orchestration · automated reasoning</sub>
+      <b><font color="#BC8CFF">🤖 Agentic Systems</font></b>
+      <br/><br/>
+      <sub><font color="#8B949E">Multi-agent pipelines</font></sub><br/>
+      <sub><font color="#8B949E">Tool orchestration</font></sub><br/>
+      <sub><font color="#8B949E">Automated reasoning</font></sub>
       <br/><br/>
     </td>
-    <td width="33%" align="center">
+  </tr>
+  <tr>
+    <td width="50%" align="center" bgcolor="#0D1117">
       <br/>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="40"/>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="48"/>
       <br/><br/>
-      <b>⚡ High-Performance Edge</b><br/>
-      <sub>C++20/23 · CUDA / TensorRT · low-latency inference</sub>
+      <b><font color="#FFA657">⚡ High-Performance Edge</font></b>
+      <br/><br/>
+      <sub><font color="#8B949E">C++20/23 · CUDA / TensorRT</font></sub><br/>
+      <sub><font color="#8B949E">Low-latency inference</font></sub><br/>
+      <sub><font color="#8B949E">Edge deployment</font></sub>
+      <br/><br/>
+    </td>
+    <td width="50%" align="center" bgcolor="#0D1117">
+      <br/>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Screwdriver.png" width="48"/>
+      <br/><br/>
+      <b><font color="#7EE787">🔧 Reverse Engineering</font></b>
+      <br/><br/>
+      <sub><font color="#8B949E">Binary analysis</font></sub><br/>
+      <sub><font color="#8B949E">Protocol & firmware RE</font></sub><br/>
+      <sub><font color="#8B949E">Instrumentation & tooling</font></sub>
       <br/><br/>
     </td>
   </tr>
@@ -147,15 +144,3 @@
     </td>
   </tr>
 </table>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="22" align="center" />
-  <sub><i>Driven by Code, Powered by Frontier Intelligence.</i></sub>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="22" align="center" />
-  <br/><br/>
-  <a href="mailto:zhujiadongvip@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/ZhuJD-China/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://twitter.com/zhujiadong1/"><img src="https://img.shields.io/badge/X-181717?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-</div>
