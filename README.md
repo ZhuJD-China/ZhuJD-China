@@ -76,17 +76,16 @@
   <img src="https://img.shields.io/badge/Adversarial_ML-0D1117?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Adversarial ML"/>
 </p>
 
----
+<br/>
 
-### 📊 GitHub Stats · 数据面板
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=ZhuJD-China&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=61AFEF&icon_color=79C0FF&text_color=C9D1D9&ring_color=58A6FF" alt="ZhuJD-China stats"/>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhuJD-China&layout=compact&hide_border=true&bg_color=0D1117&title_color=61AFEF&text_color=C9D1D9" alt="Top languages"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fountain%20Pen.png" width="28"/>
+  <br/><br/>
+  <i><sub>Code is thought made visible — intelligence, engineered.</sub></i>
+  <br/><br/>
+  <b>Norris Zhu</b>
+  <br/>
+  <sub>AI Systems · Computer Vision &amp; AOI · Agentic Workflows</sub>
+  <br/><br/>
+  <sub>© 2026 · Driven by Code, Powered by Frontier Intelligence</sub>
+</div>
