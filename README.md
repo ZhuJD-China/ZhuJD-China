@@ -46,15 +46,13 @@
 
 ### 🛰️ Frontier Model Radar · 前沿模型雷达
 
-> 🗓️ **Snapshot: 2026-10-12** — 模型按周迭代，此雷达每月滚动刷新 / *the frontier moves weekly; this radar is refreshed monthly.*
-
-| Lab | Frontier Flagship | Efficient / Open-Weight Tier |
+| Lab | Frontier Flagship | Efficient / Open-Weight |
 | :-- | :-- | :-- |
-| **Anthropic** | Claude Fable 5.1 · Opus 5.5 · Sonnet 5.5 | Claude Mythos *(restricted)* |
+| **Anthropic** | Claude Fable 5.1 · Opus 5.5 · Sonnet 5.5 | Claude Mythos |
 | **OpenAI** | GPT-6.1 Sol · GPT-6 Astra | GPT-6 Luna |
-| **Google DeepMind** | Gemini 4 Argon *(phased rollout)* | Gemini 3.8 Flash |
-| **DeepSeek** | DeepSeek V4-Pro-0813 | V4.1-Flash · V4-Flash — **MIT** |
-| **Alibaba Qwen** | Qwen3.8-Max | Qwen3.8-Flash · 27B — **Apache 2.0** |
+| **Google DeepMind** | Gemini 4 Argon | Gemini 3.8 Flash |
+| **DeepSeek** | DeepSeek V4-Pro-0813 | V4.1-Flash · V4-Flash (MIT) |
+| **Alibaba Qwen** | Qwen3.8-Max | Qwen3.8-Flash · 27B (Apache 2.0) |
 | **Open Frontier** | Kimi K3 · GLM-5.3 · Grok 4.7 | MiMo V2.6 · Muse Spark 1.3 |
 
 <p>
