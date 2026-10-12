@@ -79,13 +79,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fountain%20Pen.png" width="28"/>
-  <br/><br/>
-  <i><sub>Code is thought made visible — intelligence, engineered.</sub></i>
-  <br/><br/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fountain%20Pen.png" width="20"/>
+  <sub><i>&nbsp;&nbsp;Code is thought made visible — intelligence, engineered.&nbsp;&nbsp;</i></sub>
   <b>Norris Zhu</b>
-  <br/>
-  <sub>AI Systems · Computer Vision &amp; AOI · Agentic Workflows</sub>
-  <br/><br/>
-  <sub>© 2026 · Driven by Code, Powered by Frontier Intelligence</sub>
+  <sub>&nbsp;· © 2026&nbsp;</sub>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fountain%20Pen.png" width="20"/>
 </div>
